@@ -6,10 +6,11 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <div className="App ">
-      <Router>
+      <h1>ffffffffffwdad</h1>
+      <Router basename={process.env.PUBLIC_URL} >
       <Routes>
-        <Route exact path="/" element={<PageF1/>} />
-        <Route exact path="*" element={<NotFound/>} />
+        <Route  path="/" element={<PageF1/>} />
+        <Route  path="*" element={<NotFound/>} />
     
       </Routes>
     </Router>
