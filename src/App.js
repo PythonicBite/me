@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <div className="App ">
-      <PageF1/>
+     
       <Router basename={process.env.PUBLIC_URL} >
       <Routes>
         <Route  path="/" element={<PageF1/>} />
