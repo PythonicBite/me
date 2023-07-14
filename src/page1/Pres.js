@@ -53,7 +53,7 @@ const  presentationWeb = () =>{
   </div>
   <div class="flex md:flex-row  md:space-x-4  ">
     <img class="w-10 h-auto"src={process.env.PUBLIC_URL + '/logo192.png'}/>
-    <img class="w-10 h-auto"src={process.env.PUBLIC_URL + '/logo192.png'}/>
+    <img class="w-10 h-auto"src={process.env.PUBLIC_URL + '/tailwind.svg'}/>
     <img class="w-10 h-auto"src={process.env.PUBLIC_URL + '/flow-s.svg'}/>
   </div>
   
