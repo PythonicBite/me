@@ -4,7 +4,7 @@ const  presentationWeb = () =>{
  <h6 className="text-6xl font-bold  dark:text-white ml-6 md:ml-0 " >Front end</h6>
 
  <h1 className="text-3xl font-bold tracking-[20px] md:tracking-normal ml-6 md:ml-0 mt-6 md:mt-0 dark:text-white">Developer</h1>
- <p className="font-light mt-2 dark:text-white" >Hi , i'm Elmehdi also Known by PythonicBit A self-learner Front-end  </p>
+ <p className="font-light mt-2 dark:text-white" >Hi , i'm PythonicBite A self-learner Front-end  </p>
  <p className="font-light dark:text-white">Developer Based in Morocco , Casablanca 😊  </p>
  <a type="button" href="https://github.com/PythonicBite" class="text-white mt-5 bg-[#24292F] hover:bg-[#24292F]/90 hover:animate-pulse focus:ring-4 focus:outline-none focus:ring-[#24292F]/50 font-medium rounded-full text-sm px-2 py-2 text-center inline-flex items-center dark:focus:ring-gray-500 dark:hover:bg-[#050708]/30 mr-2 mb-2">
   <svg class="w-4 h-4 mr-auto -ml-auto" 
